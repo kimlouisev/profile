@@ -4,7 +4,7 @@ Kim is a data-driven development practitioner with 6 years of experience across 
 
 Currently a graduate student at Columbia University, School of International and Public Affairs (SIPA) taking a Master in Public Administration (MPA) in Development Practice. Study areas: Agriculture, Food Security, and Nutrition; Data Analytics and Quantitative Analysis. She is proficient in Stata, R, Python, SurveyCTO/ODK, and ArcGIS.
 
-[Download Kim Vidal Stata Sample](https://raw.githubusercontent.com/kimlouisev/profile/refs/heads/main/Kim%20Vidal%20-%20Stata%20sample_Regression%20Discountinuity%20Design%20.do)
+[Kim Vidal Stata Sample](https://raw.githubusercontent.com/kimlouisev/profile/refs/heads/main/Kim%20Vidal%20-%20Stata%20sample_Regression%20Discountinuity%20Design%20.do)
 <br> 
 [Kim Vidal - SurveyCTO Sample.xlsx](https://github.com/user-attachments/files/18633999/Kim.Vidal.-.SurveyCTO.Sample.xlsx)
 
